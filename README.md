@@ -1,4 +1,3 @@
 # IBGEBot
 
-Bot that accesses the IBGE (Brazilian Institute of Geography and Statistics) website and downloads information about the desired location. 
-
+Automation using BotCity FrameWork, which works with computer vision, was developed for the Rocketseat Scholarships challenge at the #DoWhile event. Simple automation to access the IBGE website and download data in Excel format from the chosen location.
