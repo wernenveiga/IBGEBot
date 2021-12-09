@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: IBGEBot
+Version: 1.0
+Summary: Bot that accesses the IBGE (Brazilian Institute of Geography and Statistics) website and downloads information about the desired location. 
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: # IBGEBot
+        
+        Bot that accesses the IBGE (Brazilian Institute of Geography and Statistics) website and downloads information about the desired location. 
+        
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
